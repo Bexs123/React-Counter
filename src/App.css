@@ -1,0 +1,42 @@
+body {
+  padding-top: 30px;
+  background-color: #f003fc;
+  text-align: center;
+  font-family: cursive;
+  font-style: oblique;
+  font-weight: bolder;
+}
+
+.Counter {
+  width: 300px;
+  height: 370px;
+  padding-top: 20px;
+  margin: 0 auto -90px;
+  box-sizing: border-box;
+  font-size: 30px;
+  color: #03fc6b;
+  background: -webkit-linear-gradient(top, #0425e2, #240a99); 
+  background: -o-linear-gradient(top, #0425e2, #240a99);
+  background: -moz-linear-gradient(top, #0425e2, #240a99);
+  background: linear-gradient(top, #0425e2, #240a99);
+  border-radius: 50px;
+  -webkit-box-shadow: 0px 10px 38px -2px #03fc6b;
+  -moz-box-shadow: 0px 10px 38px -2px #03fc6b;
+  box-shadow: 0px 10px 38px -2px #03fc6b;
+}
+
+.btn {
+padding: 5px;
+margin-top: 20px;
+font-weight: bolder;   
+font-size: 15px;
+color: black;
+text-align: center;
+border: 8;
+border-radius: 2px;
+background: #03fc6b;
+}
+
+.btn:hover{
+  color: #eefa0c;
+}
